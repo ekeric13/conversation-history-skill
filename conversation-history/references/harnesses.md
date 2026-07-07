@@ -1,6 +1,6 @@
 # Harness Transcript Sources
 
-Use this reference when the visible conversation is not enough to produce a useful recap. Treat local transcript formats as implementation details: discover the likely file, inspect just enough of its shape, then extract a small set of human-visible turns.
+Treat local transcript formats as implementation details: discover the likely file, inspect just enough of its shape, then extract a small set of human-visible turns.
 
 Keep discovery mechanics out of the final recap unless the user asks where the history came from.
 
