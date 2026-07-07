@@ -1,0 +1,23 @@
+{
+  "name": "conversation-history",
+  "owner": {
+    "name": "ekeric13"
+  },
+  "description": "A Claude Code plugin marketplace for the Conversation History skill.",
+  "plugins": [
+    {
+      "name": "conversation-history",
+      "source": "./",
+      "description": "Summarize agent-session transcripts into concise conversation history.",
+      "category": "productivity",
+      "keywords": [
+        "conversation-history",
+        "transcripts",
+        "codex",
+        "claude-code",
+        "handoff",
+        "pull-requests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "conversation-history",
+  "version": "0.1.0",
+  "description": "Summarize Claude Code, Codex, and agent-session transcripts into concise conversation history for PRs, handoffs, and future sessions.",
+  "author": {
+    "name": "ekeric13"
+  },
+  "keywords": [
+    "conversation-history",
+    "transcripts",
+    "codex",
+    "claude-code",
+    "handoff",
+    "pull-requests"
+  ],
+  "skills": [
+    "./conversation-history"
+  ]
+}
