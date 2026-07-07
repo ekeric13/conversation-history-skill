@@ -27,7 +27,7 @@ For Codex, Claude Code, Cursor, and other Agent Skills-compatible tools, use the
 npx skills@latest add ekeric13/conversation-history-skill
 ```
 
-Because this repo contains one skill, the installer should discover `conversation-history` directly. A GitHub Release is not required for this path; the repo needs to be public and reachable on GitHub.
+Because this repo contains one skill, the installer should discover `conversation-history` directly.
 
 ## Install For Codex
 
